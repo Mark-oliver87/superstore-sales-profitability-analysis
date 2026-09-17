@@ -73,5 +73,7 @@ The findings suggest that targeted reviews of discounting, pricing, product cost
 ## Power BI Dashboard
 
 An interactive Power BI dashboard was developed to summarize sales and profitability performance across categories, sub-categories, regions, and time.
+![Superstore Sales and Profit Dashboard](images/powerbi_dashboard.png)
+
 
 [Download the Power BI Dashboard (.pbix)](powerbi/Superstore%20Sales%20Profit%20Dashboard.pbix)
