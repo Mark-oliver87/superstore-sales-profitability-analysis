@@ -77,13 +77,6 @@ An interactive Power BI dashboard was developed to summarize sales and profitabi
 
 
 [Download the Power BI Dashboard (.pbix)](powerbi/Superstore%20Sales%20Profit%20Dashboard.pbix)
-## Author
-
-**Mark Oliver Erbynn Baidoo**
-
-Data Analyst | SQL | Python | Power BI
-
-This project was independently developed as part of my data analytics portfolio. The analysis, SQL queries, Python notebooks, visualizations, and Power BI dashboard were created to demonstrate an end-to-end analytics workflow.
 
 ## Author
 
